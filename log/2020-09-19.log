@@ -1,0 +1,5 @@
+2020-09-19 19:06:26 [info] 3
+2020-09-19 19:06:26 [error] 'err'
+2020-09-19 19:06:26 [warn] stdClass::__set_state(array(
+   'aa' => 'warn',
+))
